@@ -1,4 +1,4 @@
-### A Warm Welcome to my humble project den.
+### A Warm Welcome To My Humble Project Den.
 
 - 🔭 I’m currently working on Front-end development
 - 🌱 I’m currently learning Java and advanced algorithms.
