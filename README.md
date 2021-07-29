@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Front-end development
 - 🌱 I’m currently learning Java and advanced algorithms.
-- 👯 I’m looking to collaborate for any virtual hackathons or group projects.
+- 👯 I’m looking to collaborate in any virtual hackathons or group projects.
 - 💬 Ask me about Python
 - 📫 How to reach me: [@su._.ren.f](www.instagram.com/su._.ren.f)
 - 😄 Pronouns: He/Him
