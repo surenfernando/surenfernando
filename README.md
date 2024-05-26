@@ -1,10 +1,6 @@
 ### A Warm Welcome To My Humble Project Den.
 
-- 🔭 I’m currently working on Front-end development
-- 🌱 I’m currently learning Java and advanced algorithms.
-- 👯 I’m looking to collaborate in any virtual hackathons or group projects.
-- 💬 Ask me about Python
-- 📫 How to reach me: [@su._.ren.f](https://instagram.com/su._.ren.f)
+- 🔭 I’m a full stack developer with focus on MERN stack, Python.
+- 🌱 I’m currently preparing for AWS - ACP Certification.
+- 📫 How to reach me: [contact me](https://www.surenfernando.com/contact)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I spend a good hour a day cleaning my keyboard :)
-
