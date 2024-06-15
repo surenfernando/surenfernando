@@ -38,6 +38,14 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
 
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="50" /></a>
+<a href="https://angular.io" target="_blank"><img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="50" /></a>
+<a href="https://svelte.dev" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" /></a>
+<a href="https://webpack.js.org" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" height="50" /></a>
+<a href="https://sass-lang.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="50" /></a>
+
+
 ### Backend
 
 <a href="https://fastapi.tiangolo.com/tutorial/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="Django" height="50" /></a>
