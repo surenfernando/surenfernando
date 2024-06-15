@@ -26,6 +26,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg"  alt="haskell" height="50"/> </a> 
 
 ### Frontend
 
