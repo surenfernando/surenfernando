@@ -10,7 +10,6 @@
 - 📫 How to reach me: [contact me](https://www.surenfernando.com/contact)
 - ⚡ Fun fact: I love to play the piano and learning new instruments.
 - 😄 Pronouns: He/Him
--
 
 # My Sandbox and SE Landscape
 
@@ -53,9 +52,14 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
 
+
+### Backend as a Service
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50" /></a>
+<a href="https://heroku.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="50" /></a>
+
 </div>
 
-## Technologies
+## Solution Based Development
 
 <div align="left">
 
