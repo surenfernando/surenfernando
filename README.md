@@ -48,7 +48,7 @@
 
 ### Backend
 <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50" /></a>
-<a href="https://expressjs.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://i0.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png?w=872&ssl=1)" alt="express" height="50" /></a>
+<a href="https://expressjs.com" target="_blank"><img style="margin: 10px; background-color: white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="50" /></a>
 <a href="https://fastapi.tiangolo.com/tutorial/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="Django" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
