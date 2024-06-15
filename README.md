@@ -76,6 +76,11 @@
 <a href="https://instagram.com/su._.ren.f" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="https://surenfernando.com" target="_blank">
+  <img src=https://img.shields.io/badge/😀-Project%20Portfolio-34495e.svg?colorA=34495e alt=portfolio style="margin-bottom: 5px;" />
+</a>
+<br/>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surenfernando&show_icons=true&locale=en&layout=compact" alt="surenfernando" /></p>
 
@@ -83,4 +88,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surenfernando&" alt="surenfernando" /></p>
 
-<br/>
+
