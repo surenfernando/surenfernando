@@ -47,7 +47,8 @@
 
 
 ### Backend
-
+<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50" /></a>
+<a href="https://expressjs.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="50" /></a>
 <a href="https://fastapi.tiangolo.com/tutorial/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="Django" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
@@ -57,6 +58,13 @@
 ## Technologies
 
 <div align="left">
+
+
+### Mobile App Development
+<a href="https://developer.android.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="50" /></a>
+<a href="https://flutter.dev" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="50" /></a>
+<a href="https://dart.dev" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="50" /></a>
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="50" /></a>
   
 ### Databases & Storage
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
