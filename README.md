@@ -6,7 +6,7 @@
 
 - 📖 I’m currently learning devops and cloud computing
 - 🌱 I’m currently preparing for AWS - ACP Certification.
-- ✨ 2024 Goal is to build a PropertyManagement tool [PropertyPro](https://github.com/acmahaja/AstroAgenda)
+- ✨ 2024 Goal is to build a PropertyManagement tool [PropertyPro](https://github.com/surenfernando/PropertyPro)
 - 📫 How to reach me: [contact me](https://www.surenfernando.com/contact)
 - ⚡ Fun fact: I love to play the piano and learning new instruments.
 - 😄 Pronouns: He/Him
@@ -48,7 +48,7 @@
 
 ### Backend
 <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50" /></a>
-<a href="https://expressjs.com" target="_blank"><img style="margin: 10px; background-color: white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="50" /></a>
+<a href="https://expressjs.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="50" /></a>
 <a href="https://fastapi.tiangolo.com/tutorial/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="Django" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
@@ -59,6 +59,11 @@
 
 <div align="left">
 
+### AI/ML Development
+<a href="https://www.tensorflow.org" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50" /></a>
+<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="50" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="50" /></a>
+
 
 ### Mobile App Development
 <a href="https://developer.android.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="50" /></a>
@@ -66,15 +71,22 @@
 <a href="https://dart.dev" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="50" /></a>
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="50" /></a>
   
-### Databases & Storage
+### Databases, Storage and Visualization
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.chartjs.org" target="_blank"><img style="margin: 10px" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="50" /></a>
+
 
 ### Cloud & DevOps
 
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://kubernetes.io" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" height="50" /></a>
+<a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="50" /></a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="50" /></a>
+<a href="https://www.jenkins.io" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50" /></a>
 
 ### Other
 
